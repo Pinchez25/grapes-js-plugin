@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/artf/grapesjs-plugin-ckeditor.git"
+    "url": "https://github.com/Pinchez25/grapes-js-plugin.git"
   },
   "keywords": [
     "grapesjs",
@@ -19,7 +19,7 @@
     "ckeditor",
     "wysiwyg"
   ],
-  "author": "Artur Arseniev",
+  "author": "Peter Thua",
   "license": "BSD-3-Clause",
   "babel": {
     "presets": [
